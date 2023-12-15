@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg)]
+[![MasterHead](https://i.pcmag.com/imagery/articles/00l8p1iqqfNP3HRG3TtTgXl-1..v1587974089.jpg)]
 
 <h1 align="center">Hi 👋, I'm Ben Altrovich</h1>
 <h3 align="center">Passionate Developer with a Love for Crafting Innovative Digital Solutions, Contributing to Open Source, and Building a Brighter Tech Future</h3>
